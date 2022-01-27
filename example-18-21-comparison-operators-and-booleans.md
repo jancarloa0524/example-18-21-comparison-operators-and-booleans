@@ -12,7 +12,7 @@ function ex18True() {
 }
 ```
 
-*19:** Tells the program to execute code if something is true. These conditions are Boolean conditions. When true, the code in the curly brackets will execute, and won’t if false. When false, if there is an else if/else statement, it will check to see if that is true. If not, the code will continue. Order matters to if/else statements. else if statements can be chained. 
+**19:** Tells the program to execute code if something is true. These conditions are Boolean conditions. When true, the code in the curly brackets will execute, and won’t if false. When false, if there is an else if/else statement, it will check to see if that is true. If not, the code will continue. Order matters to if/else statements. else if statements can be chained. 
 
 ``` javascript
 console.log("19: The following are the results of a function with if/else statements")
